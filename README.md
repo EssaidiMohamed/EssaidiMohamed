@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EssaidiMohamed
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning and working as data anlyst
+- 🌱 I’m currently learning and working as data analyst
 - 💞️ I’m looking to collaborate on data analytics project
 - 📫 How to reach me https://www.linkedin.com/in/mohamed-essaidi-331808222/
 
